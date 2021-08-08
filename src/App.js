@@ -2,7 +2,8 @@ import React, { Component } from "react";
 import "./App.css";
 /*import Container from 'react-bootstrap/Container'*/
 import "bootstrap/dist/css/bootstrap.css";
-import "bootswatch/journal/bootstrap.css";
+/*import "bootswatch/journal/bootstrap.css";*/
+/*import './bootstrap/dist/css/bootstrap.min.css';*/
 
 import { Navbar, NavItem, Nav, Grid, Row, Col } from "react-bootstrap";
 

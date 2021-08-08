@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import "./App.css";
-import Container from 'react-bootstrap/Container'
+/*import Container from 'react-bootstrap/Container'*/
 import "bootstrap/dist/css/bootstrap.css";
 import "bootswatch/journal/bootstrap.css";
 
